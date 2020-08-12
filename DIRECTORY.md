@@ -35,17 +35,22 @@
   * DynamicArray
     * [DynamicArray](https://github.com/TheAlgorithms/Java/blob/master/DataStructures/DynamicArray/DynamicArray.java)
   * Graphs
+    * [A Star](https://github.com/TheAlgorithms/Java/blob/master/DataStructures/Graphs/A_Star.java)
     * [BellmanFord](https://github.com/TheAlgorithms/Java/blob/master/DataStructures/Graphs/BellmanFord.java)
     * [ConnectedComponent](https://github.com/TheAlgorithms/Java/blob/master/DataStructures/Graphs/ConnectedComponent.java)
     * [Cycles](https://github.com/TheAlgorithms/Java/blob/master/DataStructures/Graphs/Cycles.java)
     * [FloydWarshall](https://github.com/TheAlgorithms/Java/blob/master/DataStructures/Graphs/FloydWarshall.java)
+    * [GraphAlgos](https://github.com/TheAlgorithms/Java/blob/master/DataStructures/Graphs/GraphAlgos.java)
     * [Graphs](https://github.com/TheAlgorithms/Java/blob/master/DataStructures/Graphs/Graphs.java)
+    * [Kruskal](https://github.com/TheAlgorithms/Java/blob/master/DataStructures/Graphs/Kruskal.java)
     * [MatrixGraphs](https://github.com/TheAlgorithms/Java/blob/master/DataStructures/Graphs/MatrixGraphs.java)
     * [PrimMST](https://github.com/TheAlgorithms/Java/blob/master/DataStructures/Graphs/PrimMST.java)
   * HashMap
     * Hashing
       * [HashMap](https://github.com/TheAlgorithms/Java/blob/master/DataStructures/HashMap/Hashing/HashMap.java)
+      * [HashMapLinearProbing](https://github.com/TheAlgorithms/Java/blob/master/DataStructures/HashMap/Hashing/HashMapLinearProbing.java)
       * [Main](https://github.com/TheAlgorithms/Java/blob/master/DataStructures/HashMap/Hashing/Main.java)
+      * [MainLinearProbing](https://github.com/TheAlgorithms/Java/blob/master/DataStructures/HashMap/Hashing/MainLinearProbing.java)
   * Heaps
     * [EmptyHeapException](https://github.com/TheAlgorithms/Java/blob/master/DataStructures/Heaps/EmptyHeapException.java)
     * [Heap](https://github.com/TheAlgorithms/Java/blob/master/DataStructures/Heaps/Heap.java)
@@ -89,6 +94,7 @@
   * [SkylineAlgorithm](https://github.com/TheAlgorithms/Java/blob/master/divideconquer/SkylineAlgorithm.java)
 
 ## DynamicProgramming
+  * [BoardPath](https://github.com/TheAlgorithms/Java/blob/master/DynamicProgramming/BoardPath.java)
   * [CoinChange](https://github.com/TheAlgorithms/Java/blob/master/DynamicProgramming/CoinChange.java)
   * [EditDistance](https://github.com/TheAlgorithms/Java/blob/master/DynamicProgramming/EditDistance.java)
   * [EggDropping](https://github.com/TheAlgorithms/Java/blob/master/DynamicProgramming/EggDropping.java)
@@ -101,6 +107,7 @@
   * [LongestIncreasingSubsequence](https://github.com/TheAlgorithms/Java/blob/master/DynamicProgramming/LongestIncreasingSubsequence.java)
   * [LongestValidParentheses](https://github.com/TheAlgorithms/Java/blob/master/DynamicProgramming/LongestValidParentheses.java)
   * [MatrixChainMultiplication](https://github.com/TheAlgorithms/Java/blob/master/DynamicProgramming/MatrixChainMultiplication.java)
+  * [MinimumSumPartition](https://github.com/TheAlgorithms/Java/blob/master/DynamicProgramming/MinimumSumPartition.java)
   * [RodCutting](https://github.com/TheAlgorithms/Java/blob/master/DynamicProgramming/RodCutting.java)
 
 ## Maths
@@ -108,6 +115,7 @@
   * [AbsoluteMin](https://github.com/TheAlgorithms/Java/blob/master/Maths/AbsoluteMin.java)
   * [AbsoluteValue](https://github.com/TheAlgorithms/Java/blob/master/Maths/AbsoluteValue.java)
   * [AmicableNumber](https://github.com/TheAlgorithms/Java/blob/master/Maths/AmicableNumber.java)
+  * [CountDigit](https://github.com/TheAlgorithms/Java/blob/master/Maths/CountDigit.java)
   * [Factorial](https://github.com/TheAlgorithms/Java/blob/master/Maths/Factorial.java)
   * [FactorialRecursion](https://github.com/TheAlgorithms/Java/blob/master/Maths/FactorialRecursion.java)
   * [FibonacciNumber](https://github.com/TheAlgorithms/Java/blob/master/Maths/FibonacciNumber.java)
@@ -185,6 +193,7 @@
   * [IterativeTernarySearch](https://github.com/TheAlgorithms/Java/blob/master/Searches/IterativeTernarySearch.java)
   * [JumpSearch](https://github.com/TheAlgorithms/Java/blob/master/Searches/JumpSearch.java)
   * [LinearSearch](https://github.com/TheAlgorithms/Java/blob/master/Searches/LinearSearch.java)
+  * [PerfectBinarySearch](https://github.com/TheAlgorithms/Java/blob/master/Searches/PerfectBinarySearch.java)
   * [SaddlebackSearch](https://github.com/TheAlgorithms/Java/blob/master/Searches/SaddlebackSearch.java)
   * [SearchAlgorithm](https://github.com/TheAlgorithms/Java/blob/master/Searches/SearchAlgorithm.java)
   * [TernarySearch](https://github.com/TheAlgorithms/Java/blob/master/Searches/TernarySearch.java)
